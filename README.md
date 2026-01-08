@@ -362,3 +362,5 @@ defer func() {
 ## 联系
 
 如有问题或建议，请通过 Issues 页面反馈。
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/bryant-ba/bal043-aliyun-sdk.svg)](https://pkg.go.dev/github.com/bryant-ba/bal043-aliyun-sdk)
