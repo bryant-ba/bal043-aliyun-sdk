@@ -4,7 +4,7 @@ import (
 	alidns20150109 "github.com/alibabacloud-go/alidns-20150109/v4/client"
 	openapi "github.com/alibabacloud-go/darabonba-openapi/v2/client"
 
-	"bal043-aliyun-sdk/aliyun/credential"
+	"github.com/bryant-ba/bal043-aliyun-sdk/aliyun/credential"
 )
 
 // CreateClient 创建阿里云云解析DNS客户端实例

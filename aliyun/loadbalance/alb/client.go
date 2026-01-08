@@ -4,7 +4,7 @@ import (
 	alb "github.com/alibabacloud-go/alb-20200616/v2/client"
 	openapi "github.com/alibabacloud-go/darabonba-openapi/v2/client"
 
-	"bal043-aliyun-sdk/aliyun/credential"
+	"github.com/bryant-ba/bal043-aliyun-sdk/aliyun/credential"
 )
 
 // CreateClient 创建阿里云应用型负载均衡客户端实例

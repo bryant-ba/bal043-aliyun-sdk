@@ -4,7 +4,7 @@ import (
 	arms20190808 "github.com/alibabacloud-go/arms-20190808/v11/client"
 	openapi "github.com/alibabacloud-go/darabonba-openapi/v2/client"
 
-	"bal043-aliyun-sdk/aliyun/credential"
+	"github.com/bryant-ba/bal043-aliyun-sdk/aliyun/credential"
 )
 
 // CreateClient 创建阿里云应用实时监控服务客户端实例
