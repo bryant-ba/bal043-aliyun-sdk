@@ -26,6 +26,7 @@ import (
 //	    log.Fatalf("创建Alidns客户端失败: %v", err)
 //	}
 //	// 使用client调用云解析DNS API，如查询域名解析记录
+
 func CreateClient(accessKeyid, accessKeySecret, endpoint string) (result *alidns20150109.Client, err error) {
 	c, err := credential.CreateCredentials(accessKeyid, accessKeySecret)
 	if err != nil {
